@@ -1,0 +1,91 @@
+{
+  "updatedAt": "2026-09-12T22:31:14.060Z",
+  "account": {
+    "equity": "100000",
+    "cash": "100000"
+  },
+  "positions": [],
+  "recentOrders": [],
+  "today": {
+    "topLosers": [
+      {
+        "symbol": "BIAFW",
+        "price": 0.2384,
+        "percentChange": -56.65
+      },
+      {
+        "symbol": "NMCO.RT",
+        "price": 0.016,
+        "percentChange": -49.21
+      },
+      {
+        "symbol": "RIV.RT",
+        "price": 0.0085,
+        "percentChange": -43.33
+      },
+      {
+        "symbol": "ASTLW",
+        "price": 0.0058,
+        "percentChange": -42.57
+      },
+      {
+        "symbol": "CDIOW",
+        "price": 0.01,
+        "percentChange": -36.71
+      },
+      {
+        "symbol": "LTRYW",
+        "price": 0.0031,
+        "percentChange": -35.42
+      },
+      {
+        "symbol": "NXATW",
+        "price": 0.018,
+        "percentChange": -34.78
+      },
+      {
+        "symbol": "PDYNW",
+        "price": 0.004,
+        "percentChange": -34.43
+      },
+      {
+        "symbol": "VACI.U",
+        "price": 6.5,
+        "percentChange": -34.34
+      },
+      {
+        "symbol": "OPTT",
+        "price": 0.1065,
+        "percentChange": -33.44
+      },
+      {
+        "symbol": "SMUP",
+        "price": 3.93,
+        "percentChange": -31.41
+      },
+      {
+        "symbol": "SMU",
+        "price": 4.96,
+        "percentChange": -31.21
+      },
+      {
+        "symbol": "SMRX",
+        "price": 19.104,
+        "percentChange": -30.99
+      },
+      {
+        "symbol": "BKKT.WS",
+        "price": 0.0115,
+        "percentChange": -28.57
+      },
+      {
+        "symbol": "BEAGR",
+        "price": 0.18,
+        "percentChange": -28
+      }
+    ],
+    "candidates": [],
+    "bought": [],
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
+  }
+}
