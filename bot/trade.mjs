@@ -16,6 +16,14 @@ const TAKE_PROFIT_PCT = Number(process.env.TAKE_PROFIT_PCT || 0.03); // +3%
 const STOP_LOSS_PCT = Number(process.env.STOP_LOSS_PCT || 0.02); // -2%
 const MIN_PRICE = 3; // evita penny stocks demasiado ilíquidas/manipulables
 
+// Descarta warrants, derechos y unidades (".WS", ".RT", ".U", terminación "W" tipo
+// BIAFW/ASTLW) que se mueven por mecánica de vencimiento y no por sentimiento real.
+function isRegularCommonStock(symbol) {
+  if (symbol.includes(".")) return false;
+  if (/^[A-Z]{3,5}W$/.test(symbol)) return false;
+  return true;
+}
+
 if (!KEY_ID || !SECRET_KEY) {
   console.error("Faltan ALPACA_KEY_ID / ALPACA_SECRET_KEY en el entorno.");
   process.exit(1);
@@ -140,6 +148,7 @@ async function main() {
     const { symbol, price } = loser;
     if (heldSymbols.has(symbol)) continue;
     if (!price || price < MIN_PRICE) continue;
+    if (!isRegularCommonStock(symbol)) continue;
     try {
       const closes = await getRecentCloses(symbol);
       const rsi = calculateRSI(closes);
