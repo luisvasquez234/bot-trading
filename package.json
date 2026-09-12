@@ -1,0 +1,10 @@
+{
+  "name": "bot-trading",
+  "version": "1.0.0",
+  "description": "Bot de trading automatico (paper trading) que compra las acciones que mas cayeron cuando estan sobrevendidas (RSI), y vende con take-profit/stop-loss.",
+  "type": "module",
+  "scripts": {
+    "start": "node bot/trade.mjs"
+  },
+  "dependencies": {}
+}
