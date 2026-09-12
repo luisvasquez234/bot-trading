@@ -5,6 +5,9 @@ on:
     - cron: '15 14 * * 1-5' # ~10:15am hora de Lawrence, MA (EDT, UTC-4 en verano), lunes a viernes
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   trade:
     runs-on: ubuntu-latest
@@ -20,3 +23,11 @@ jobs:
           ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           ALPACA_BASE_URL: https://paper-api.alpaca.markets
+
+      - name: Publicar reporte en docs/status.json
+        run: |
+          git config user.name "bot-trading"
+          git config user.email "actions@github.com"
+          git add docs/status.json
+          git diff --staged --quiet || git commit -m "Reporte del $(date -u +%F)"
+          git push

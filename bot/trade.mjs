@@ -111,6 +111,15 @@ async function getAccount() {
   return apiGet(TRADE_BASE_URL, "/v2/account");
 }
 
+async function getRecentClosedOrders(limit = 20) {
+  try {
+    const params = new URLSearchParams({ status: "closed", limit: String(limit), direction: "desc" });
+    return await apiGet(TRADE_BASE_URL, `/v2/orders?${params}`);
+  } catch {
+    return [];
+  }
+}
+
 async function placeBracketBuy(symbol, price) {
   const takeProfitPrice = (price * (1 + TAKE_PROFIT_PCT)).toFixed(2);
   const stopLossPrice = (price * (1 - STOP_LOSS_PCT)).toFixed(2);
@@ -126,21 +135,57 @@ async function placeBracketBuy(symbol, price) {
   });
 }
 
+async function writeStatus(status) {
+  const { mkdir, writeFile } = await import("node:fs/promises");
+  await mkdir("docs", { recursive: true });
+  await writeFile("docs/status.json", JSON.stringify(status, null, 2));
+}
+
 async function main() {
+  const status = {
+    updatedAt: new Date().toISOString(),
+    account: null,
+    positions: [],
+    recentOrders: [],
+    today: { topLosers: [], candidates: [], bought: [], skippedReason: null },
+  };
+
   const account = await getAccount();
+  status.account = { equity: account.equity, cash: account.cash };
   console.log(`Cuenta paper: equity=$${account.equity} cash=$${account.cash}`);
 
   const positions = await getOpenPositions();
+  status.positions = positions.map((p) => ({
+    symbol: p.symbol,
+    qty: p.qty,
+    avgEntryPrice: p.avg_entry_price,
+    currentPrice: p.current_price,
+    unrealizedPl: p.unrealized_pl,
+    unrealizedPlpc: p.unrealized_plpc,
+  }));
   const heldSymbols = new Set(positions.map((p) => p.symbol));
   console.log(`Posiciones abiertas: ${positions.length} (${[...heldSymbols].join(", ") || "ninguna"})`);
 
+  const recentOrders = await getRecentClosedOrders();
+  status.recentOrders = recentOrders.map((o) => ({
+    symbol: o.symbol,
+    side: o.side,
+    qty: o.filled_qty,
+    filledAvgPrice: o.filled_avg_price,
+    filledAt: o.filled_at,
+    status: o.status,
+  }));
+
   const slotsFree = MAX_POSITIONS - positions.length;
   if (slotsFree <= 0) {
-    console.log("Ya se alcanzo el maximo de posiciones abiertas. No se abren nuevas hoy.");
+    status.today.skippedReason = "Ya se alcanzo el maximo de posiciones abiertas.";
+    console.log(status.today.skippedReason);
+    await writeStatus(status);
     return;
   }
 
   const losers = await getTopLosers(15);
+  status.today.topLosers = losers.map((l) => ({ symbol: l.symbol, price: l.price, percentChange: l.percent_change }));
   console.log(`Top losers de hoy: ${losers.map((l) => `${l.symbol} (${l.percent_change?.toFixed?.(2)}%)`).join(", ")}`);
 
   const candidates = [];
@@ -161,10 +206,13 @@ async function main() {
   }
 
   candidates.sort((a, b) => a.rsi - b.rsi); // primero las mas sobrevendidas
+  status.today.candidates = candidates;
   const toBuy = candidates.slice(0, slotsFree);
 
   if (toBuy.length === 0) {
-    console.log("Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI). No se compra nada.");
+    status.today.skippedReason = "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI).";
+    console.log(`${status.today.skippedReason} No se compra nada.`);
+    await writeStatus(status);
     return;
   }
 
@@ -172,13 +220,16 @@ async function main() {
     console.log(`Comprando ${symbol} a ~$${price} (RSI=${rsi.toFixed(1)}) con take-profit +${TAKE_PROFIT_PCT * 100}% / stop-loss -${STOP_LOSS_PCT * 100}%`);
     try {
       await placeBracketBuy(symbol, price);
+      status.today.bought.push({ symbol, price, rsi });
     } catch (err) {
       console.error(`Fallo la orden de ${symbol}: ${err.message}`);
     }
   }
+
+  await writeStatus(status);
 }
 
-main().catch((err) => {
+main().catch(async (err) => {
   console.error("Error en el bot:", err);
   process.exit(1);
 });
