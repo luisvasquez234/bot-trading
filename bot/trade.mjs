@@ -71,7 +71,7 @@ function calculateRSI(closes, period = RSI_PERIOD) {
 }
 
 async function getTopLosers(top = 10) {
-  const data = await apiGet(DATA_BASE_URL, `/v1beta1/screener/stocks/losers?top=${top}`);
+  const data = await apiGet(DATA_BASE_URL, `/v1beta1/screener/stocks/movers?top=${top}`);
   return data.losers || [];
 }
 
