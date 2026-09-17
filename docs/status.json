@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:12:11.818Z",
+  "updatedAt": "2026-09-17T18:15:09.928Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,89 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "JSPRW",
+        "symbol": "RETO",
+        "price": 0.1927,
+        "percentChange": -89.53
+      },
+      {
+        "symbol": "DLXY",
+        "price": 0.7712,
+        "percentChange": -66.32
+      },
+      {
+        "symbol": "SNYR",
+        "price": 0.0986,
+        "percentChange": -64.07
+      },
+      {
+        "symbol": "LGVN",
+        "price": 2.883,
+        "percentChange": -56.84
+      },
+      {
+        "symbol": "WALDW",
         "price": 0.0036,
-        "percentChange": -50.68
+        "percentChange": -41.94
       },
       {
-        "symbol": "XBIO",
-        "price": 2.11,
-        "percentChange": -50.59
+        "symbol": "RVSNW",
+        "price": 0.015,
+        "percentChange": -38.52
       },
       {
-        "symbol": "EDBLW",
-        "price": 0.0316,
-        "percentChange": -44.95
-      },
-      {
-        "symbol": "CUPR",
-        "price": 1.7377,
-        "percentChange": -40.69
+        "symbol": "TGL",
+        "price": 2.17,
+        "percentChange": -38.18
       },
       {
         "symbol": "RIV.RT",
-        "price": 0.003,
-        "percentChange": -40
+        "price": 0.0025,
+        "percentChange": -37.5
       },
       {
-        "symbol": "NXATW",
-        "price": 0.0102,
-        "percentChange": -36.25
+        "symbol": "NAMI",
+        "price": 2.0491,
+        "percentChange": -34.32
       },
       {
-        "symbol": "MYSE",
-        "price": 2.2085,
-        "percentChange": -31.63
+        "symbol": "MRNOW",
+        "price": 0.006,
+        "percentChange": -33.33
       },
       {
-        "symbol": "ASPCR",
-        "price": 0.0751,
-        "percentChange": -30.14
+        "symbol": "SCLXW",
+        "price": 0.0825,
+        "percentChange": -30.5
       },
       {
-        "symbol": "AXTQ",
-        "price": 35.5474,
-        "percentChange": -30.11
+        "symbol": "JAGX",
+        "price": 2.49,
+        "percentChange": -28.72
       },
       {
-        "symbol": "IPW",
-        "price": 1.85,
-        "percentChange": -29.66
+        "symbol": "STLNW",
+        "price": 0.03,
+        "percentChange": -28.06
       },
       {
-        "symbol": "MRLN",
-        "price": 2.1581,
-        "percentChange": -29.24
+        "symbol": "TPST",
+        "price": 0.8789,
+        "percentChange": -27.36
       },
       {
-        "symbol": "VWAV",
-        "price": 0.38,
-        "percentChange": -28.57
-      },
-      {
-        "symbol": "WTGUR",
-        "price": 0.125,
-        "percentChange": -26.47
-      },
-      {
-        "symbol": "BDRX",
-        "price": 0.98,
-        "percentChange": -26.32
-      },
-      {
-        "symbol": "ARTL",
-        "price": 3.95,
-        "percentChange": -26.03
+        "symbol": "KLXER",
+        "price": 0.012,
+        "percentChange": -27.27
       }
     ],
-    "candidates": [
-      {
-        "symbol": "ARTL",
-        "price": 3.95,
-        "rsi": 23.903065353486326
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
