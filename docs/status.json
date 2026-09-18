@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:15:09.928Z",
+  "updatedAt": "2026-09-18T17:41:43.690Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "RETO",
-        "price": 0.1927,
-        "percentChange": -89.53
+        "symbol": "DCX",
+        "price": 0.1229,
+        "percentChange": -72.07
       },
       {
-        "symbol": "DLXY",
-        "price": 0.7712,
-        "percentChange": -66.32
+        "symbol": "MKDW",
+        "price": 3.23,
+        "percentChange": -55.93
       },
       {
-        "symbol": "SNYR",
-        "price": 0.0986,
-        "percentChange": -64.07
+        "symbol": "PCTTU",
+        "price": 5.42,
+        "percentChange": -50.73
       },
       {
-        "symbol": "LGVN",
-        "price": 2.883,
-        "percentChange": -56.84
-      },
-      {
-        "symbol": "WALDW",
-        "price": 0.0036,
-        "percentChange": -41.94
-      },
-      {
-        "symbol": "RVSNW",
-        "price": 0.015,
-        "percentChange": -38.52
-      },
-      {
-        "symbol": "TGL",
-        "price": 2.17,
-        "percentChange": -38.18
-      },
-      {
-        "symbol": "RIV.RT",
-        "price": 0.0025,
-        "percentChange": -37.5
-      },
-      {
-        "symbol": "NAMI",
-        "price": 2.0491,
-        "percentChange": -34.32
-      },
-      {
-        "symbol": "MRNOW",
-        "price": 0.006,
-        "percentChange": -33.33
-      },
-      {
-        "symbol": "SCLXW",
-        "price": 0.0825,
-        "percentChange": -30.5
-      },
-      {
-        "symbol": "JAGX",
-        "price": 2.49,
-        "percentChange": -28.72
-      },
-      {
-        "symbol": "STLNW",
-        "price": 0.03,
-        "percentChange": -28.06
-      },
-      {
-        "symbol": "TPST",
-        "price": 0.8789,
-        "percentChange": -27.36
+        "symbol": "SDST",
+        "price": 0.125,
+        "percentChange": -50.32
       },
       {
         "symbol": "KLXER",
-        "price": 0.012,
-        "percentChange": -27.27
+        "price": 0.008,
+        "percentChange": -49.69
+      },
+      {
+        "symbol": "PAAI",
+        "price": 1.7589,
+        "percentChange": -47.34
+      },
+      {
+        "symbol": "RIV.RT",
+        "price": 0.0019,
+        "percentChange": -40.63
+      },
+      {
+        "symbol": "VWAVW",
+        "price": 0.0455,
+        "percentChange": -39.33
+      },
+      {
+        "symbol": "SLND.WS",
+        "price": 0.0101,
+        "percentChange": -38.79
+      },
+      {
+        "symbol": "VEEAW",
+        "price": 0.0496,
+        "percentChange": -31.59
+      },
+      {
+        "symbol": "BLRKW",
+        "price": 0.261,
+        "percentChange": -31.32
+      },
+      {
+        "symbol": "XENE",
+        "price": 40.1605,
+        "percentChange": -29.97
+      },
+      {
+        "symbol": "TLNCW",
+        "price": 0.4999,
+        "percentChange": -28.59
+      },
+      {
+        "symbol": "DUKRW",
+        "price": 1,
+        "percentChange": -28.58
+      },
+      {
+        "symbol": "WHLR",
+        "price": 0.2712,
+        "percentChange": -28.1
       }
     ],
     "candidates": [],
