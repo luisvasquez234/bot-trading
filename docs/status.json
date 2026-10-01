@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:21:06.877Z",
+  "updatedAt": "2026-10-01T19:32:03.717Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,89 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "FFR",
-        "price": 1.375,
-        "percentChange": -96.27
+        "symbol": "CTVA",
+        "price": 12.255,
+        "percentChange": -84.22
       },
       {
-        "symbol": "ARBEW",
-        "price": 0.0251,
-        "percentChange": -56.8
+        "symbol": "WCT",
+        "price": 1.6087,
+        "percentChange": -80.11
       },
       {
-        "symbol": "NTRBW",
-        "price": 0.81,
-        "percentChange": -53.18
+        "symbol": "MI",
+        "price": 0.8426,
+        "percentChange": -60.99
       },
       {
-        "symbol": "LQDA",
-        "price": 33.56,
-        "percentChange": -52.53
+        "symbol": "COLAU",
+        "price": 3.78,
+        "percentChange": -60.62
       },
       {
-        "symbol": "ACONW",
-        "price": 0.0255,
-        "percentChange": -49
+        "symbol": "COLA",
+        "price": 2.9205,
+        "percentChange": -59.99
       },
       {
-        "symbol": "ASTLW",
-        "price": 0.005,
-        "percentChange": -48.98
+        "symbol": "NIVF",
+        "price": 0.0892,
+        "percentChange": -46.9
       },
       {
-        "symbol": "COPL.WS",
-        "price": 0.02,
-        "percentChange": -47.51
+        "symbol": "GFAIW",
+        "price": 0.0016,
+        "percentChange": -46.67
       },
       {
-        "symbol": "DKI",
-        "price": 1.55,
-        "percentChange": -39.22
+        "symbol": "VIVK",
+        "price": 0.2841,
+        "percentChange": -44.22
       },
       {
-        "symbol": "ABLVW",
-        "price": 0.015,
-        "percentChange": -38.27
+        "symbol": "STKH",
+        "price": 0.937,
+        "percentChange": -40.32
       },
       {
-        "symbol": "RFL",
-        "price": 1.29,
-        "percentChange": -36.45
+        "symbol": "VERI",
+        "price": 0.7552,
+        "percentChange": -36.54
+      },
+      {
+        "symbol": "EURKR",
+        "price": 0.2701,
+        "percentChange": -33.39
       },
       {
         "symbol": "SKYAW",
-        "price": 0.0285,
-        "percentChange": -36.24
+        "price": 0.0297,
+        "percentChange": -32.19
       },
       {
-        "symbol": "MSAIW",
-        "price": 0.0157,
-        "percentChange": -35.66
+        "symbol": "RMSGW",
+        "price": 0.024,
+        "percentChange": -31.23
       },
       {
-        "symbol": "BFRIW",
-        "price": 0.0098,
-        "percentChange": -34.67
+        "symbol": "SBXE.WS",
+        "price": 0.2074,
+        "percentChange": -30.89
       },
       {
-        "symbol": "CVRX",
-        "price": 1.72,
-        "percentChange": -34.6
-      },
-      {
-        "symbol": "PIIIW",
-        "price": 0.0116,
-        "percentChange": -34.09
+        "symbol": "ALVOW",
+        "price": 0.2647,
+        "percentChange": -30.32
       }
     ],
-    "candidates": [
-      {
-        "symbol": "LQDA",
-        "price": 33.56,
-        "rsi": 33.88320256509819
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
