@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:19:36.185Z",
+  "updatedAt": "2026-10-05T21:29:20.173Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,83 +9,89 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "ASTLW",
-        "price": 0.003,
-        "percentChange": -69.7
+        "symbol": "NMCO.RT",
+        "price": 0.0075,
+        "percentChange": -75
       },
       {
-        "symbol": "SBFMW",
-        "price": 0.0251,
-        "percentChange": -52.1
+        "symbol": "CYCUW",
+        "price": 0.019,
+        "percentChange": -47.95
       },
       {
-        "symbol": "ASGI.RT",
-        "price": 0.0076,
-        "percentChange": -48.65
+        "symbol": "WHLR",
+        "price": 1.09,
+        "percentChange": -47.34
       },
       {
-        "symbol": "DRCT",
-        "price": 0.85,
-        "percentChange": -43.71
+        "symbol": "SDEV",
+        "price": 3.94,
+        "percentChange": -47.33
       },
       {
-        "symbol": "SMX",
-        "price": 3.84,
-        "percentChange": -37.66
+        "symbol": "DAAQW",
+        "price": 0.08,
+        "percentChange": -43.06
       },
       {
         "symbol": "ARBEW",
-        "price": 0.0244,
-        "percentChange": -32.22
+        "price": 0.015,
+        "percentChange": -39.76
       },
       {
-        "symbol": "NEXRW",
-        "price": 0.0102,
-        "percentChange": -31.08
+        "symbol": "SSM",
+        "price": 1.59,
+        "percentChange": -39.66
       },
       {
-        "symbol": "GRMLW",
-        "price": 0.5317,
-        "percentChange": -30.95
+        "symbol": "BRZD",
+        "price": 21.6673,
+        "percentChange": -37.47
       },
       {
-        "symbol": "BCAT.RTWI",
-        "price": 0.0052,
-        "percentChange": -30.67
+        "symbol": "SBFM",
+        "price": 0.4201,
+        "percentChange": -36.97
       },
       {
-        "symbol": "FHTX",
-        "price": 2.035,
-        "percentChange": -30.31
+        "symbol": "AIMDW",
+        "price": 0.056,
+        "percentChange": -36.29
       },
       {
-        "symbol": "UWMC.RTWI",
-        "price": 0.0317,
-        "percentChange": -29.56
+        "symbol": "BCTXZ",
+        "price": 0.19,
+        "percentChange": -36.24
       },
       {
-        "symbol": "HUBCW",
-        "price": 0.0067,
-        "percentChange": -29.47
-      },
-      {
-        "symbol": "PNAQ.RT",
-        "price": 0.17,
-        "percentChange": -29.17
-      },
-      {
-        "symbol": "RDACU",
-        "price": 7.1,
-        "percentChange": -28.64
+        "symbol": "BIAFW",
+        "price": 0.3401,
+        "percentChange": -35.48
       },
       {
         "symbol": "RZAI",
-        "price": 19.07,
-        "percentChange": -27.52
+        "price": 12.91,
+        "percentChange": -35.13
+      },
+      {
+        "symbol": "VCIG",
+        "price": 0.911,
+        "percentChange": -33.5
+      },
+      {
+        "symbol": "BTBDW",
+        "price": 0.0156,
+        "percentChange": -33.05
       }
     ],
-    "candidates": [],
+    "candidates": [
+      {
+        "symbol": "SDEV",
+        "price": 3.94,
+        "rsi": 33.90080644009366
+      }
+    ],
     "bought": [],
-    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
+    "skippedReason": null
   }
 }
