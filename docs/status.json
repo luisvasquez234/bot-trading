@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:29:20.173Z",
+  "updatedAt": "2026-10-06T19:32:42.539Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,86 +9,86 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "NMCO.RT",
-        "price": 0.0075,
-        "percentChange": -75
+        "symbol": "MI",
+        "price": 1.14,
+        "percentChange": -83.71
       },
       {
-        "symbol": "CYCUW",
-        "price": 0.019,
-        "percentChange": -47.95
+        "symbol": "NRSNW",
+        "price": 0.0144,
+        "percentChange": -63.64
       },
       {
-        "symbol": "WHLR",
-        "price": 1.09,
-        "percentChange": -47.34
+        "symbol": "NIVFW",
+        "price": 0.0123,
+        "percentChange": -51.76
       },
       {
-        "symbol": "SDEV",
-        "price": 3.94,
-        "percentChange": -47.33
+        "symbol": "XRPN",
+        "price": 19.085,
+        "percentChange": -50.62
       },
       {
-        "symbol": "DAAQW",
-        "price": 0.08,
-        "percentChange": -43.06
+        "symbol": "AVBP",
+        "price": 14.44,
+        "percentChange": -49.26
       },
       {
-        "symbol": "ARBEW",
-        "price": 0.015,
-        "percentChange": -39.76
+        "symbol": "AMPGZ",
+        "price": 0.125,
+        "percentChange": -48.79
       },
       {
-        "symbol": "SSM",
-        "price": 1.59,
-        "percentChange": -39.66
+        "symbol": "GCDT",
+        "price": 0.235,
+        "percentChange": -45.23
       },
       {
-        "symbol": "BRZD",
-        "price": 21.6673,
-        "percentChange": -37.47
+        "symbol": "XRPNU",
+        "price": 19.8,
+        "percentChange": -43.43
       },
       {
-        "symbol": "SBFM",
-        "price": 0.4201,
-        "percentChange": -36.97
+        "symbol": "WZRD",
+        "price": 5.03,
+        "percentChange": -42.71
       },
       {
-        "symbol": "AIMDW",
-        "price": 0.056,
-        "percentChange": -36.29
+        "symbol": "GPATW",
+        "price": 0.0403,
+        "percentChange": -41.59
       },
       {
-        "symbol": "BCTXZ",
-        "price": 0.19,
-        "percentChange": -36.24
+        "symbol": "NEXRW",
+        "price": 0.0089,
+        "percentChange": -41.45
       },
       {
-        "symbol": "BIAFW",
-        "price": 0.3401,
-        "percentChange": -35.48
+        "symbol": "XBPEW",
+        "price": 0.031,
+        "percentChange": -40.27
       },
       {
-        "symbol": "RZAI",
-        "price": 12.91,
-        "percentChange": -35.13
+        "symbol": "DYNCW",
+        "price": 0.06,
+        "percentChange": -40
       },
       {
-        "symbol": "VCIG",
-        "price": 0.911,
-        "percentChange": -33.5
+        "symbol": "HSCSW",
+        "price": 0.06,
+        "percentChange": -39.7
       },
       {
-        "symbol": "BTBDW",
-        "price": 0.0156,
-        "percentChange": -33.05
+        "symbol": "RUBI",
+        "price": 0.6464,
+        "percentChange": -38.44
       }
     ],
     "candidates": [
       {
-        "symbol": "SDEV",
-        "price": 3.94,
-        "rsi": 33.90080644009366
+        "symbol": "XRPNU",
+        "price": 19.8,
+        "rsi": 0
       }
     ],
     "bought": [],
