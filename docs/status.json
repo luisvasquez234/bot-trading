@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:32:42.539Z",
+  "updatedAt": "2026-10-07T19:59:13.509Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,89 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "MI",
-        "price": 1.14,
-        "percentChange": -83.71
+        "symbol": "BCAT.RT",
+        "price": 0.0102,
+        "percentChange": -58.7
       },
       {
-        "symbol": "NRSNW",
-        "price": 0.0144,
-        "percentChange": -63.64
+        "symbol": "INV",
+        "price": 0.2686,
+        "percentChange": -52.56
       },
       {
-        "symbol": "NIVFW",
-        "price": 0.0123,
-        "percentChange": -51.76
-      },
-      {
-        "symbol": "XRPN",
-        "price": 19.085,
-        "percentChange": -50.62
-      },
-      {
-        "symbol": "AVBP",
-        "price": 14.44,
-        "percentChange": -49.26
-      },
-      {
-        "symbol": "AMPGZ",
-        "price": 0.125,
-        "percentChange": -48.79
+        "symbol": "GGROW",
+        "price": 0.003,
+        "percentChange": -50.82
       },
       {
         "symbol": "GCDT",
-        "price": 0.235,
-        "percentChange": -45.23
+        "price": 0.7216,
+        "percentChange": -48.82
       },
       {
-        "symbol": "XRPNU",
-        "price": 19.8,
-        "percentChange": -43.43
+        "symbol": "CRBU",
+        "price": 0.6117,
+        "percentChange": -46.11
       },
       {
-        "symbol": "WZRD",
-        "price": 5.03,
-        "percentChange": -42.71
+        "symbol": "IPVVW",
+        "price": 0.17,
+        "percentChange": -45.18
       },
       {
-        "symbol": "GPATW",
-        "price": 0.0403,
-        "percentChange": -41.59
+        "symbol": "VCIG",
+        "price": 0.7884,
+        "percentChange": -44.09
       },
       {
-        "symbol": "NEXRW",
-        "price": 0.0089,
-        "percentChange": -41.45
+        "symbol": "OGGWZ",
+        "price": 0.03,
+        "percentChange": -39.64
       },
       {
-        "symbol": "XBPEW",
-        "price": 0.031,
-        "percentChange": -40.27
+        "symbol": "BULG",
+        "price": 21.09,
+        "percentChange": -38.15
       },
       {
-        "symbol": "DYNCW",
-        "price": 0.06,
-        "percentChange": -40
+        "symbol": "SDSTW",
+        "price": 0.0678,
+        "percentChange": -37.97
       },
       {
-        "symbol": "HSCSW",
-        "price": 0.06,
-        "percentChange": -39.7
+        "symbol": "SCAGW",
+        "price": 0.005,
+        "percentChange": -35.06
       },
       {
-        "symbol": "RUBI",
-        "price": 0.6464,
-        "percentChange": -38.44
+        "symbol": "BULLW",
+        "price": 1.515,
+        "percentChange": -34.42
+      },
+      {
+        "symbol": "LIMNW",
+        "price": 0.037,
+        "percentChange": -33.33
+      },
+      {
+        "symbol": "DAICW",
+        "price": 0.007,
+        "percentChange": -32.69
+      },
+      {
+        "symbol": "PIIIW",
+        "price": 0.0075,
+        "percentChange": -31.82
       }
     ],
-    "candidates": [
-      {
-        "symbol": "XRPNU",
-        "price": 19.8,
-        "rsi": 0
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
