@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T19:59:13.509Z",
+  "updatedAt": "2026-10-08T19:57:26.089Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "BCAT.RT",
-        "price": 0.0102,
-        "percentChange": -58.7
+        "symbol": "SXTC",
+        "price": 0.3301,
+        "percentChange": -88.34
       },
       {
-        "symbol": "INV",
-        "price": 0.2686,
-        "percentChange": -52.56
+        "symbol": "DKI",
+        "price": 0.7366,
+        "percentChange": -55.89
       },
       {
-        "symbol": "GGROW",
-        "price": 0.003,
-        "percentChange": -50.82
+        "symbol": "CCAQU",
+        "price": 10.8,
+        "percentChange": -44.59
       },
       {
-        "symbol": "GCDT",
-        "price": 0.7216,
-        "percentChange": -48.82
+        "symbol": "MI",
+        "price": 0.8785,
+        "percentChange": -42.95
       },
       {
-        "symbol": "CRBU",
-        "price": 0.6117,
-        "percentChange": -46.11
+        "symbol": "BCGWW",
+        "price": 0.04,
+        "percentChange": -40.74
       },
       {
-        "symbol": "IPVVW",
-        "price": 0.17,
-        "percentChange": -45.18
+        "symbol": "MNDR",
+        "price": 0.9042,
+        "percentChange": -40.51
       },
       {
-        "symbol": "VCIG",
-        "price": 0.7884,
-        "percentChange": -44.09
+        "symbol": "SBFM",
+        "price": 0.43,
+        "percentChange": -38.57
       },
       {
-        "symbol": "OGGWZ",
-        "price": 0.03,
-        "percentChange": -39.64
+        "symbol": "LTRYW",
+        "price": 0.0018,
+        "percentChange": -37.93
       },
       {
-        "symbol": "BULG",
-        "price": 21.09,
-        "percentChange": -38.15
+        "symbol": "SEATW",
+        "price": 0.0125,
+        "percentChange": -37.81
       },
       {
-        "symbol": "SDSTW",
-        "price": 0.0678,
-        "percentChange": -37.97
+        "symbol": "NVNI",
+        "price": 0.5373,
+        "percentChange": -37.52
       },
       {
-        "symbol": "SCAGW",
-        "price": 0.005,
-        "percentChange": -35.06
+        "symbol": "MDCX",
+        "price": 0.1022,
+        "percentChange": -36.2
       },
       {
-        "symbol": "BULLW",
-        "price": 1.515,
-        "percentChange": -34.42
+        "symbol": "XLABW",
+        "price": 0.0705,
+        "percentChange": -33.05
       },
       {
-        "symbol": "LIMNW",
-        "price": 0.037,
-        "percentChange": -33.33
+        "symbol": "CDROW",
+        "price": 0.23,
+        "percentChange": -32.35
       },
       {
-        "symbol": "DAICW",
-        "price": 0.007,
-        "percentChange": -32.69
-      },
-      {
-        "symbol": "PIIIW",
-        "price": 0.0075,
+        "symbol": "BBCI",
+        "price": 7.5,
         "percentChange": -31.82
+      },
+      {
+        "symbol": "NVNIW",
+        "price": 0.0102,
+        "percentChange": -31.54
       }
     ],
     "candidates": [],
