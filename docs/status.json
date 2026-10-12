@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:32:39.470Z",
+  "updatedAt": "2026-10-12T22:08:38.841Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,83 +9,89 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "SXTC",
-        "price": 0.1404,
-        "percentChange": -59.13
-      },
-      {
-        "symbol": "ASTLW",
-        "price": 0.0018,
-        "percentChange": -55
+        "symbol": "CDTTW",
+        "price": 0.0027,
+        "percentChange": -76.72
       },
       {
         "symbol": "DKI",
-        "price": 0.3369,
-        "percentChange": -54.82
+        "price": 0.1433,
+        "percentChange": -58.15
       },
       {
-        "symbol": "AMPGZ",
-        "price": 0.101,
-        "percentChange": -46.81
+        "symbol": "DFSCW",
+        "price": 0.0107,
+        "percentChange": -57.03
       },
       {
-        "symbol": "MLEC",
-        "price": 2.32,
-        "percentChange": -44.63
+        "symbol": "CINGW",
+        "price": 0.003,
+        "percentChange": -53.85
       },
       {
-        "symbol": "BRLSW",
-        "price": 0.0351,
-        "percentChange": -39.38
+        "symbol": "GGROW",
+        "price": 0.0025,
+        "percentChange": -52.83
       },
       {
-        "symbol": "FVNNU",
-        "price": 21.1,
-        "percentChange": -35.02
+        "symbol": "FUSEW",
+        "price": 0.0152,
+        "percentChange": -44.73
       },
       {
-        "symbol": "BCAT.RT",
-        "price": 0.0075,
-        "percentChange": -34.78
+        "symbol": "ABLV",
+        "price": 1.33,
+        "percentChange": -44.35
       },
       {
-        "symbol": "IRAB.WS",
-        "price": 0.185,
-        "percentChange": -31.48
+        "symbol": "YRD",
+        "price": 0.5595,
+        "percentChange": -44.05
       },
       {
-        "symbol": "NTCL",
-        "price": 1.23,
-        "percentChange": -31.48
+        "symbol": "HPAIW",
+        "price": 0.0201,
+        "percentChange": -42.9
       },
       {
-        "symbol": "CCIIW",
-        "price": 0.4678,
-        "percentChange": -31.21
+        "symbol": "VIVK",
+        "price": 2.17,
+        "percentChange": -42.89
       },
       {
-        "symbol": "BGLWW",
-        "price": 0.0261,
-        "percentChange": -30.4
+        "symbol": "BBCIW",
+        "price": 0.04,
+        "percentChange": -42.78
+      },
+      {
+        "symbol": "BEATW",
+        "price": 0.0077,
+        "percentChange": -42.11
+      },
+      {
+        "symbol": "CTNM",
+        "price": 8.565,
+        "percentChange": -35.99
       },
       {
         "symbol": "ALISU",
-        "price": 27.89,
-        "percentChange": -30.27
+        "price": 14.9,
+        "percentChange": -35.5
       },
       {
-        "symbol": "IPW",
-        "price": 0.6428,
-        "percentChange": -30.15
-      },
-      {
-        "symbol": "BBAI.WS",
-        "price": 0.0322,
-        "percentChange": -30
+        "symbol": "SXTC",
+        "price": 0.102,
+        "percentChange": -31.41
       }
     ],
-    "candidates": [],
+    "candidates": [
+      {
+        "symbol": "CTNM",
+        "price": 8.565,
+        "rsi": 32.75521766591122
+      }
+    ],
     "bought": [],
-    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
+    "skippedReason": null
   }
 }
