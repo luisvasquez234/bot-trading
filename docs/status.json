@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:28:05.809Z",
+  "updatedAt": "2026-10-21T18:39:38.303Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "SDSTW",
-        "price": 0.0278,
-        "percentChange": -58.94
+        "symbol": "HUBCZ",
+        "price": 0.007,
+        "percentChange": -51.39
       },
       {
-        "symbol": "CJMB",
-        "price": 0.8314,
-        "percentChange": -56.7
+        "symbol": "GPATW",
+        "price": 0.0344,
+        "percentChange": -47.16
       },
       {
-        "symbol": "BGLWW",
-        "price": 0.0175,
-        "percentChange": -55.36
+        "symbol": "SWAGW",
+        "price": 0.0031,
+        "percentChange": -41.51
       },
       {
-        "symbol": "BKHAU",
-        "price": 4.15,
-        "percentChange": -52.41
+        "symbol": "RBNE",
+        "price": 0.2387,
+        "percentChange": -39.99
       },
       {
-        "symbol": "GME.WS",
-        "price": 0.744,
-        "percentChange": -47.97
+        "symbol": "RAC.WS",
+        "price": 0.175,
+        "percentChange": -37.5
       },
       {
-        "symbol": "EVEX.WS",
-        "price": 0.0052,
-        "percentChange": -47.47
+        "symbol": "ASPSZ",
+        "price": 0.1264,
+        "percentChange": -36.8
       },
       {
-        "symbol": "AERTW",
-        "price": 0.0114,
-        "percentChange": -42.42
+        "symbol": "NWCLW",
+        "price": 0.35,
+        "percentChange": -33.96
       },
       {
-        "symbol": "SXTC",
-        "price": 0.0646,
-        "percentChange": -41.91
+        "symbol": "PRSO",
+        "price": 0.392,
+        "percentChange": -33.72
       },
       {
-        "symbol": "ALPXW",
-        "price": 0.035,
-        "percentChange": -41.76
+        "symbol": "FLYX.WS",
+        "price": 0.1002,
+        "percentChange": -33.11
       },
       {
-        "symbol": "IVDAW",
+        "symbol": "WORX",
+        "price": 2.47,
+        "percentChange": -32.51
+      },
+      {
+        "symbol": "PSQH.WS",
         "price": 0.0101,
-        "percentChange": -40.59
-      },
-      {
-        "symbol": "CELG.RT",
-        "price": 0.07,
-        "percentChange": -35.13
-      },
-      {
-        "symbol": "GCDT",
-        "price": 0.1844,
-        "percentChange": -33.91
+        "percentChange": -31.76
       },
       {
         "symbol": "SABSW",
-        "price": 0.005,
-        "percentChange": -33.33
+        "price": 0.0042,
+        "percentChange": -31.15
       },
       {
-        "symbol": "KCHVR",
-        "price": 0.0504,
-        "percentChange": -32.8
+        "symbol": "HCICR",
+        "price": 0.086,
+        "percentChange": -29.51
       },
       {
-        "symbol": "ESLAW",
-        "price": 0.055,
-        "percentChange": -32.27
+        "symbol": "AVEX",
+        "price": 10.115,
+        "percentChange": -29.46
+      },
+      {
+        "symbol": "SLND.WS",
+        "price": 0.0113,
+        "percentChange": -29.38
       }
     ],
     "candidates": [],
