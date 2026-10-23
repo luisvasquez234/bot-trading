@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:33:06.653Z",
+  "updatedAt": "2026-10-23T18:22:35.339Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,89 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "BGLWW",
-        "price": 0.002,
-        "percentChange": -92.16
+        "symbol": "AARD",
+        "price": 1.606,
+        "percentChange": -59.34
       },
       {
-        "symbol": "SDSTW",
-        "price": 0.0078,
-        "percentChange": -72.04
+        "symbol": "SHFS",
+        "price": 0.1406,
+        "percentChange": -59
       },
       {
-        "symbol": "TTMX",
-        "price": 2.34,
-        "percentChange": -58.14
+        "symbol": "BIAFW",
+        "price": 0.175,
+        "percentChange": -58.24
       },
       {
-        "symbol": "CDTTW",
-        "price": 0.0031,
-        "percentChange": -58.11
+        "symbol": "HUBCZ",
+        "price": 0.0077,
+        "percentChange": -56.74
       },
       {
-        "symbol": "FPSX",
-        "price": 1.435,
-        "percentChange": -51.36
+        "symbol": "KCAI",
+        "price": 15,
+        "percentChange": -53.21
       },
       {
-        "symbol": "MRNX",
-        "price": 113.5,
-        "percentChange": -46.71
+        "symbol": "DAVI",
+        "price": 5.9,
+        "percentChange": -49.36
       },
       {
-        "symbol": "FSHPR",
-        "price": 0.068,
-        "percentChange": -43.33
+        "symbol": "FGL",
+        "price": 1.66,
+        "percentChange": -42.16
       },
       {
-        "symbol": "BEATW",
-        "price": 0.0107,
-        "percentChange": -41.53
-      },
-      {
-        "symbol": "CUBWW",
-        "price": 0.0606,
-        "percentChange": -39.4
-      },
-      {
-        "symbol": "NXGLW",
-        "price": 0.009,
-        "percentChange": -39.19
+        "symbol": "NCPL",
+        "price": 1.335,
+        "percentChange": -40.13
       },
       {
         "symbol": "POM",
-        "price": 1.8499,
-        "percentChange": -38.54
+        "price": 1.2196,
+        "percentChange": -39.92
       },
       {
-        "symbol": "MKDWW",
-        "price": 0.0052,
-        "percentChange": -38.1
+        "symbol": "LNAI",
+        "price": 0.2868,
+        "percentChange": -38.98
       },
       {
-        "symbol": "SXTC",
-        "price": 0.0458,
-        "percentChange": -37.26
+        "symbol": "LABT",
+        "price": 0.3001,
+        "percentChange": -38.69
       },
       {
-        "symbol": "AVTX",
-        "price": 7.725,
-        "percentChange": -36.99
+        "symbol": "BURU",
+        "price": 0.2559,
+        "percentChange": -37.6
       },
       {
-        "symbol": "ZKPW",
-        "price": 0.101,
-        "percentChange": -36.91
+        "symbol": "COPL.WS",
+        "price": 0.0438,
+        "percentChange": -37.43
+      },
+      {
+        "symbol": "MGNX",
+        "price": 2.274,
+        "percentChange": -37.36
+      },
+      {
+        "symbol": "NANO",
+        "price": 6.54,
+        "percentChange": -35.25
       }
     ],
-    "candidates": [
-      {
-        "symbol": "AVTX",
-        "price": 7.725,
-        "rsi": 31.25388170778531
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
