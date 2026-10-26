@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:22:35.339Z",
+  "updatedAt": "2026-10-26T19:57:13.504Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "AARD",
-        "price": 1.606,
-        "percentChange": -59.34
+        "symbol": "BRZL",
+        "price": 18,
+        "percentChange": -58.32
       },
       {
-        "symbol": "SHFS",
-        "price": 0.1406,
-        "percentChange": -59
+        "symbol": "XXII",
+        "price": 0.0909,
+        "percentChange": -54.02
       },
       {
-        "symbol": "BIAFW",
-        "price": 0.175,
-        "percentChange": -58.24
+        "symbol": "GTERR",
+        "price": 0.0301,
+        "percentChange": -53.69
       },
       {
-        "symbol": "HUBCZ",
-        "price": 0.0077,
-        "percentChange": -56.74
+        "symbol": "ALVOW",
+        "price": 0.1999,
+        "percentChange": -52.4
       },
       {
-        "symbol": "KCAI",
-        "price": 15,
-        "percentChange": -53.21
+        "symbol": "RMSGW",
+        "price": 0.0152,
+        "percentChange": -51.9
       },
       {
-        "symbol": "DAVI",
-        "price": 5.9,
-        "percentChange": -49.36
+        "symbol": "XP",
+        "price": 15.705,
+        "percentChange": -48.36
       },
       {
-        "symbol": "FGL",
-        "price": 1.66,
-        "percentChange": -42.16
+        "symbol": "CPIX",
+        "price": 4.41,
+        "percentChange": -48.06
       },
       {
-        "symbol": "NCPL",
-        "price": 1.335,
-        "percentChange": -40.13
+        "symbol": "BFRIW",
+        "price": 0.0026,
+        "percentChange": -48
       },
       {
-        "symbol": "POM",
-        "price": 1.2196,
-        "percentChange": -39.92
+        "symbol": "DAICW",
+        "price": 0.0053,
+        "percentChange": -45.36
       },
       {
-        "symbol": "LNAI",
-        "price": 0.2868,
-        "percentChange": -38.98
+        "symbol": "SWAGW",
+        "price": 0.003,
+        "percentChange": -44.44
       },
       {
-        "symbol": "LABT",
-        "price": 0.3001,
-        "percentChange": -38.69
+        "symbol": "GME.WS",
+        "price": 0.3731,
+        "percentChange": -41.99
       },
       {
-        "symbol": "BURU",
-        "price": 0.2559,
-        "percentChange": -37.6
+        "symbol": "SLXNW",
+        "price": 0.0058,
+        "percentChange": -41.41
       },
       {
-        "symbol": "COPL.WS",
-        "price": 0.0438,
-        "percentChange": -37.43
+        "symbol": "BRZX",
+        "price": 20,
+        "percentChange": -39.99
       },
       {
-        "symbol": "MGNX",
-        "price": 2.274,
-        "percentChange": -37.36
+        "symbol": "DAVEW",
+        "price": 0.7499,
+        "percentChange": -39.52
       },
       {
-        "symbol": "NANO",
-        "price": 6.54,
-        "percentChange": -35.25
+        "symbol": "BRZU",
+        "price": 78.695,
+        "percentChange": -39.05
       }
     ],
     "candidates": [],
