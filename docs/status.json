@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:38:47.705Z",
+  "updatedAt": "2026-10-30T19:23:15.642Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,86 +9,86 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "DYNCW",
-        "price": 0.0022,
-        "percentChange": -93.71
+        "symbol": "ABOS",
+        "price": 0.2221,
+        "percentChange": -90.3
       },
       {
-        "symbol": "NOWL",
-        "price": 3.95,
-        "percentChange": -53.96
+        "symbol": "PMN",
+        "price": 3.57,
+        "percentChange": -67.78
       },
       {
-        "symbol": "NOWX",
-        "price": 18.66,
-        "percentChange": -53.6
+        "symbol": "ARI",
+        "price": 2.35,
+        "percentChange": -63.57
       },
       {
-        "symbol": "GME.WS",
-        "price": 0.2301,
-        "percentChange": -45.23
+        "symbol": "LINT",
+        "price": 34.269,
+        "percentChange": -62.21
       },
       {
-        "symbol": "LVWR",
-        "price": 0.9125,
-        "percentChange": -42.97
+        "symbol": "INTW",
+        "price": 6.77,
+        "percentChange": -61.84
       },
       {
-        "symbol": "XRX",
-        "price": 1.665,
-        "percentChange": -40.32
+        "symbol": "INT",
+        "price": 5.3851,
+        "percentChange": -61.61
       },
       {
-        "symbol": "OPTT",
-        "price": 0.4121,
-        "percentChange": -39.31
+        "symbol": "JDZG",
+        "price": 0.6367,
+        "percentChange": -59.96
       },
       {
-        "symbol": "GCTK",
-        "price": 1.25,
-        "percentChange": -39.02
+        "symbol": "RDTL",
+        "price": 3.55,
+        "percentChange": -59.93
       },
       {
-        "symbol": "TRAD.RT",
-        "price": 0.2,
-        "percentChange": -37.48
+        "symbol": "RDDC",
+        "price": 3.529,
+        "percentChange": -58.54
+      },
+      {
+        "symbol": "VEEAW",
+        "price": 0.0279,
+        "percentChange": -53.34
+      },
+      {
+        "symbol": "PSQH.WS",
+        "price": 0.0051,
+        "percentChange": -49.5
+      },
+      {
+        "symbol": "BGLWW",
+        "price": 0.01,
+        "percentChange": -48.72
       },
       {
         "symbol": "AXG",
-        "price": 3.63,
-        "percentChange": -36.09
+        "price": 1.9,
+        "percentChange": -48.65
       },
       {
-        "symbol": "IOVA",
-        "price": 9.58,
-        "percentChange": -35.31
+        "symbol": "ZKPW",
+        "price": 0.1221,
+        "percentChange": -41.27
       },
       {
-        "symbol": "AIOK",
-        "price": 18.475,
-        "percentChange": -34.35
-      },
-      {
-        "symbol": "XBPEW",
-        "price": 0.04,
-        "percentChange": -33.11
-      },
-      {
-        "symbol": "NIVFW",
-        "price": 0.0087,
-        "percentChange": -33.08
-      },
-      {
-        "symbol": "KTWOR",
-        "price": 0.1066,
-        "percentChange": -32.53
+        "symbol": "PTHS",
+        "price": 10.055,
+        "percentChange": -39.21
       }
     ],
     "candidates": [
       {
-        "symbol": "AXG",
-        "price": 3.63,
-        "rsi": 9.093193920204627
+        "symbol": "PMN",
+        "price": 3.57,
+        "rsi": 24.036124233200226
       }
     ],
     "bought": [],
