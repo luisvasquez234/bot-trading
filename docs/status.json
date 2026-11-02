@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:23:15.642Z",
+  "updatedAt": "2026-11-02T22:47:23.151Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,89 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "ABOS",
-        "price": 0.2221,
-        "percentChange": -90.3
+        "symbol": "KPTI",
+        "price": 0.112,
+        "percentChange": -83.08
       },
       {
-        "symbol": "PMN",
-        "price": 3.57,
-        "percentChange": -67.78
+        "symbol": "WHLR",
+        "price": 0.611,
+        "percentChange": -60.32
       },
       {
-        "symbol": "ARI",
-        "price": 2.35,
-        "percentChange": -63.57
+        "symbol": "BDMDW",
+        "price": 0.0101,
+        "percentChange": -59.6
       },
       {
-        "symbol": "LINT",
-        "price": 34.269,
-        "percentChange": -62.21
+        "symbol": "AUROW",
+        "price": 0.0022,
+        "percentChange": -57.69
       },
       {
-        "symbol": "INTW",
-        "price": 6.77,
-        "percentChange": -61.84
+        "symbol": "DRUG",
+        "price": 26.2,
+        "percentChange": -52.35
       },
       {
-        "symbol": "INT",
-        "price": 5.3851,
-        "percentChange": -61.61
+        "symbol": "AIOK",
+        "price": 12.63,
+        "percentChange": -47.75
+      },
+      {
+        "symbol": "PARA",
+        "price": 1.69,
+        "percentChange": -46.69
+      },
+      {
+        "symbol": "JAGX",
+        "price": 0.8841,
+        "percentChange": -45.43
+      },
+      {
+        "symbol": "CINGW",
+        "price": 0.0021,
+        "percentChange": -44.74
       },
       {
         "symbol": "JDZG",
-        "price": 0.6367,
-        "percentChange": -59.96
+        "price": 0.5264,
+        "percentChange": -43.77
       },
       {
-        "symbol": "RDTL",
-        "price": 3.55,
-        "percentChange": -59.93
+        "symbol": "CYCUW",
+        "price": 0.0198,
+        "percentChange": -42.44
       },
       {
-        "symbol": "RDDC",
-        "price": 3.529,
-        "percentChange": -58.54
+        "symbol": "MTEN",
+        "price": 0.5003,
+        "percentChange": -41.37
       },
       {
-        "symbol": "VEEAW",
-        "price": 0.0279,
-        "percentChange": -53.34
+        "symbol": "TLSIW",
+        "price": 0.56,
+        "percentChange": -40.58
       },
       {
-        "symbol": "PSQH.WS",
-        "price": 0.0051,
-        "percentChange": -49.5
+        "symbol": "SVRN",
+        "price": 17.78,
+        "percentChange": -39.67
       },
       {
-        "symbol": "BGLWW",
-        "price": 0.01,
-        "percentChange": -48.72
-      },
-      {
-        "symbol": "AXG",
-        "price": 1.9,
-        "percentChange": -48.65
-      },
-      {
-        "symbol": "ZKPW",
-        "price": 0.1221,
-        "percentChange": -41.27
-      },
-      {
-        "symbol": "PTHS",
-        "price": 10.055,
-        "percentChange": -39.21
+        "symbol": "MLEC",
+        "price": 0.85,
+        "percentChange": -39.29
       }
     ],
-    "candidates": [
-      {
-        "symbol": "PMN",
-        "price": 3.57,
-        "rsi": 24.036124233200226
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
