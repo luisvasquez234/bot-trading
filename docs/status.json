@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:05:37.521Z",
+  "updatedAt": "2026-11-06T20:26:56.700Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "DAVEW",
-        "price": 0.1701,
-        "percentChange": -77.91
+        "symbol": "SITC",
+        "price": 0.6683,
+        "percentChange": -81.28
       },
       {
-        "symbol": "CDLR",
-        "price": 7.4,
-        "percentChange": -71.36
-      },
-      {
-        "symbol": "CINGW",
-        "price": 0.0013,
-        "percentChange": -62.86
-      },
-      {
-        "symbol": "SNWV",
-        "price": 2.25,
-        "percentChange": -60.73
+        "symbol": "SWAGW",
+        "price": 0.0008,
+        "percentChange": -73.33
       },
       {
         "symbol": "CDROW",
-        "price": 0.0396,
-        "percentChange": -60.4
+        "price": 0.0153,
+        "percentChange": -61.36
       },
       {
-        "symbol": "NRSNW",
-        "price": 0.0053,
-        "percentChange": -58.91
+        "symbol": "AIRS",
+        "price": 0.595,
+        "percentChange": -58.68
       },
       {
-        "symbol": "NMZ.RT",
-        "price": 0.005,
-        "percentChange": -56.52
+        "symbol": "OPENL",
+        "price": 0.0283,
+        "percentChange": -55.43
       },
       {
-        "symbol": "MNTN",
-        "price": 4.7,
-        "percentChange": -54.68
+        "symbol": "BDSX",
+        "price": 8.88,
+        "percentChange": -55.24
       },
       {
-        "symbol": "VCYT",
-        "price": 24,
-        "percentChange": -54.3
+        "symbol": "AMPGZ",
+        "price": 0.0141,
+        "percentChange": -53
       },
       {
-        "symbol": "RZLVW",
-        "price": 0.14,
-        "percentChange": -50.04
+        "symbol": "OPENW",
+        "price": 0.0352,
+        "percentChange": -50.42
       },
       {
-        "symbol": "HPAIW",
+        "symbol": "SLND.WS",
         "price": 0.0111,
-        "percentChange": -48.85
+        "percentChange": -50
       },
       {
-        "symbol": "PARA",
-        "price": 0.164,
-        "percentChange": -48.59
+        "symbol": "JDZG",
+        "price": 0.2042,
+        "percentChange": -48.28
       },
       {
-        "symbol": "ELPW",
-        "price": 1.305,
-        "percentChange": -48.01
+        "symbol": "STLN",
+        "price": 3.48,
+        "percentChange": -48.06
       },
       {
-        "symbol": "PENU",
-        "price": 7.22,
-        "percentChange": -46.4
+        "symbol": "LVWR.WS",
+        "price": 0.0088,
+        "percentChange": -44.3
       },
       {
-        "symbol": "AXTX",
-        "price": 5.92,
-        "percentChange": -45.89
+        "symbol": "BDMD",
+        "price": 0.0897,
+        "percentChange": -43.05
+      },
+      {
+        "symbol": "IONZ",
+        "price": 25.38,
+        "percentChange": -43
+      },
+      {
+        "symbol": "OPEX",
+        "price": 1.08,
+        "percentChange": -41.94
       }
     ],
     "candidates": [],
