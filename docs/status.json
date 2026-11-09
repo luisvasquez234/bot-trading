@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:26:56.700Z",
+  "updatedAt": "2026-11-09T23:26:37.397Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,83 +9,94 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "SITC",
-        "price": 0.6683,
-        "percentChange": -81.28
+        "symbol": "HYAC.WS",
+        "price": 0.35,
+        "percentChange": -88.56
       },
       {
-        "symbol": "SWAGW",
-        "price": 0.0008,
-        "percentChange": -73.33
+        "symbol": "ZURA",
+        "price": 1.24,
+        "percentChange": -69.68
       },
       {
-        "symbol": "CDROW",
-        "price": 0.0153,
-        "percentChange": -61.36
+        "symbol": "SOC",
+        "price": 0.8801,
+        "percentChange": -54.4
       },
       {
-        "symbol": "AIRS",
-        "price": 0.595,
-        "percentChange": -58.68
+        "symbol": "PARAW",
+        "price": 0.0037,
+        "percentChange": -53.75
       },
       {
-        "symbol": "OPENL",
-        "price": 0.0283,
-        "percentChange": -55.43
+        "symbol": "ONCO",
+        "price": 3.58,
+        "percentChange": -48.49
       },
       {
-        "symbol": "BDSX",
-        "price": 8.88,
-        "percentChange": -55.24
+        "symbol": "EONR.WS",
+        "price": 0.0418,
+        "percentChange": -47.75
       },
       {
-        "symbol": "AMPGZ",
-        "price": 0.0141,
-        "percentChange": -53
+        "symbol": "XTERW",
+        "price": 0.1301,
+        "percentChange": -45.77
       },
       {
-        "symbol": "OPENW",
-        "price": 0.0352,
-        "percentChange": -50.42
+        "symbol": "GIBOW",
+        "price": 0.015,
+        "percentChange": -43.4
       },
       {
-        "symbol": "SLND.WS",
-        "price": 0.0111,
-        "percentChange": -50
+        "symbol": "AUUD",
+        "price": 0.2748,
+        "percentChange": -42.75
       },
       {
-        "symbol": "JDZG",
-        "price": 0.2042,
-        "percentChange": -48.28
+        "symbol": "FTH",
+        "price": 12.68,
+        "percentChange": -42.49
       },
       {
-        "symbol": "STLN",
-        "price": 3.48,
-        "percentChange": -48.06
+        "symbol": "OPENZ",
+        "price": 0.0205,
+        "percentChange": -41.93
       },
       {
-        "symbol": "LVWR.WS",
-        "price": 0.0088,
-        "percentChange": -44.3
+        "symbol": "PLCE",
+        "price": 0.1873,
+        "percentChange": -41.83
       },
       {
-        "symbol": "BDMD",
-        "price": 0.0897,
-        "percentChange": -43.05
+        "symbol": "LICN",
+        "price": 0.305,
+        "percentChange": -40.24
       },
       {
-        "symbol": "IONZ",
-        "price": 25.38,
-        "percentChange": -43
+        "symbol": "AIIOW",
+        "price": 0.008,
+        "percentChange": -39.85
       },
       {
-        "symbol": "OPEX",
-        "price": 1.08,
-        "percentChange": -41.94
+        "symbol": "DSX.WS",
+        "price": 0.0896,
+        "percentChange": -39.38
       }
     ],
-    "candidates": [],
+    "candidates": [
+      {
+        "symbol": "FTH",
+        "price": 12.68,
+        "rsi": 27.143919459312244
+      },
+      {
+        "symbol": "ONCO",
+        "price": 3.58,
+        "rsi": 32.9615070671947
+      }
+    ],
     "bought": [],
-    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
+    "skippedReason": null
   }
 }
