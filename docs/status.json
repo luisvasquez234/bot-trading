@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:25:40.814Z",
+  "updatedAt": "2026-11-12T21:28:24.789Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,91 +9,96 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "ENGS",
-        "price": 0.6869,
-        "percentChange": -86.15
-      },
-      {
-        "symbol": "BMGL",
-        "price": 0.684,
-        "percentChange": -64.56
-      },
-      {
-        "symbol": "STAK",
-        "price": 1.88,
-        "percentChange": -61.75
-      },
-      {
-        "symbol": "CORD",
-        "price": 3.24,
-        "percentChange": -49.57
-      },
-      {
-        "symbol": "CDTTW",
-        "price": 0.0035,
-        "percentChange": -48.53
+        "symbol": "CDNL",
+        "price": 5.64,
+        "percentChange": -62.37
       },
       {
         "symbol": "SMX",
-        "price": 11.19,
-        "percentChange": -41.87
+        "price": 4.84,
+        "percentChange": -56.75
       },
       {
-        "symbol": "AMPGZ",
-        "price": 0.0151,
-        "percentChange": -39.36
+        "symbol": "MRNOW",
+        "price": 0.0021,
+        "percentChange": -55.32
       },
       {
-        "symbol": "LWLX",
-        "price": 4.1214,
-        "percentChange": -38.86
+        "symbol": "ADIG",
+        "price": 9.82,
+        "percentChange": -49.85
       },
       {
-        "symbol": "AXTQ",
-        "price": 30.54,
-        "percentChange": -38.63
+        "symbol": "VWAV",
+        "price": 0.5561,
+        "percentChange": -46.53
       },
       {
-        "symbol": "VELL",
-        "price": 0.417,
-        "percentChange": -38.5
+        "symbol": "ICU",
+        "price": 1.05,
+        "percentChange": -45.31
       },
       {
-        "symbol": "BTBDW",
-        "price": 0.0039,
-        "percentChange": -36.07
+        "symbol": "NPWR.WS",
+        "price": 0.0615,
+        "percentChange": -44.04
       },
       {
-        "symbol": "BEATW",
-        "price": 0.0034,
-        "percentChange": -34.62
+        "symbol": "PSFE",
+        "price": 3.87,
+        "percentChange": -43.26
       },
       {
-        "symbol": "AIIOW",
-        "price": 0.0082,
-        "percentChange": -33.33
+        "symbol": "INLF",
+        "price": 0.411,
+        "percentChange": -41.28
       },
       {
-        "symbol": "GENK",
-        "price": 1.03,
-        "percentChange": -31.79
+        "symbol": "DFDVW",
+        "price": 0.1608,
+        "percentChange": -40.47
       },
       {
-        "symbol": "SOUL.RT",
-        "price": 0.1501,
-        "percentChange": -31.77
+        "symbol": "HOLOW",
+        "price": 0.0187,
+        "percentChange": -39.09
+      },
+      {
+        "symbol": "ADSEW",
+        "price": 0.068,
+        "percentChange": -38.13
+      },
+      {
+        "symbol": "RAINW",
+        "price": 0.0826,
+        "percentChange": -37.23
+      },
+      {
+        "symbol": "SES",
+        "price": 0.5783,
+        "percentChange": -35.74
+      },
+      {
+        "symbol": "NBIC",
+        "price": 4.74,
+        "percentChange": -35.16
       }
     ],
     "candidates": [
       {
-        "symbol": "LWLX",
-        "price": 4.1214,
+        "symbol": "NBIC",
+        "price": 4.74,
         "rsi": 0
       },
       {
         "symbol": "SMX",
-        "price": 11.19,
+        "price": 4.84,
         "rsi": 5.249992338245548
+      },
+      {
+        "symbol": "CDNL",
+        "price": 5.64,
+        "rsi": 18.587607208193845
       }
     ],
     "bought": [],
