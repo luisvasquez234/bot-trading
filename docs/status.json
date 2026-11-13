@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:28:24.789Z",
+  "updatedAt": "2026-11-13T20:54:03.673Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,99 +9,83 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "CDNL",
-        "price": 5.64,
-        "percentChange": -62.37
+        "symbol": "MSAIW",
+        "price": 0.0079,
+        "percentChange": -54.34
       },
       {
-        "symbol": "SMX",
-        "price": 4.84,
-        "percentChange": -56.75
+        "symbol": "OPTT",
+        "price": 0.3368,
+        "percentChange": -50.8
       },
       {
-        "symbol": "MRNOW",
-        "price": 0.0021,
-        "percentChange": -55.32
+        "symbol": "AMPGZ",
+        "price": 0.0148,
+        "percentChange": -50.5
       },
       {
-        "symbol": "ADIG",
-        "price": 9.82,
-        "percentChange": -49.85
+        "symbol": "FUSEW",
+        "price": 0.0075,
+        "percentChange": -46.43
       },
       {
-        "symbol": "VWAV",
-        "price": 0.5561,
-        "percentChange": -46.53
+        "symbol": "ZYN",
+        "price": 9.2,
+        "percentChange": -45.14
       },
       {
-        "symbol": "ICU",
-        "price": 1.05,
-        "percentChange": -45.31
+        "symbol": "IVDAW",
+        "price": 0.0106,
+        "percentChange": -44.79
       },
       {
-        "symbol": "NPWR.WS",
-        "price": 0.0615,
-        "percentChange": -44.04
+        "symbol": "DUKRW",
+        "price": 0.3502,
+        "percentChange": -43.52
       },
       {
-        "symbol": "PSFE",
-        "price": 3.87,
-        "percentChange": -43.26
+        "symbol": "XXII",
+        "price": 0.7461,
+        "percentChange": -42.61
       },
       {
-        "symbol": "INLF",
-        "price": 0.411,
-        "percentChange": -41.28
+        "symbol": "OGEN",
+        "price": 0.2064,
+        "percentChange": -41.05
       },
       {
-        "symbol": "DFDVW",
-        "price": 0.1608,
-        "percentChange": -40.47
+        "symbol": "LUCYW",
+        "price": 0.0263,
+        "percentChange": -40.5
       },
       {
-        "symbol": "HOLOW",
-        "price": 0.0187,
-        "percentChange": -39.09
+        "symbol": "BTBDW",
+        "price": 0.0018,
+        "percentChange": -40
       },
       {
-        "symbol": "ADSEW",
-        "price": 0.068,
-        "percentChange": -38.13
+        "symbol": "SST",
+        "price": 1.0115,
+        "percentChange": -39.43
       },
       {
-        "symbol": "RAINW",
-        "price": 0.0826,
-        "percentChange": -37.23
+        "symbol": "NIVFW",
+        "price": 0.0066,
+        "percentChange": -38.32
       },
       {
-        "symbol": "SES",
-        "price": 0.5783,
-        "percentChange": -35.74
+        "symbol": "KLC",
+        "price": 1.32,
+        "percentChange": -37.44
       },
       {
-        "symbol": "NBIC",
-        "price": 4.74,
-        "percentChange": -35.16
+        "symbol": "NPCE",
+        "price": 7.54,
+        "percentChange": -37.27
       }
     ],
-    "candidates": [
-      {
-        "symbol": "NBIC",
-        "price": 4.74,
-        "rsi": 0
-      },
-      {
-        "symbol": "SMX",
-        "price": 4.84,
-        "rsi": 5.249992338245548
-      },
-      {
-        "symbol": "CDNL",
-        "price": 5.64,
-        "rsi": 18.587607208193845
-      }
-    ],
+    "candidates": [],
     "bought": [],
-    "skippedReason": null
+    "skippedReason": "Ninguna de las mas caidas de hoy esta suficientemente sobrevendida (RSI)."
   }
 }
