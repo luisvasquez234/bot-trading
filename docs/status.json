@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:23:49.699Z",
+  "updatedAt": "2026-11-17T22:24:48.049Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "DVLT",
-        "price": 0.028,
-        "percentChange": -53.33
+        "symbol": "GDHG",
+        "price": 0.2912,
+        "percentChange": -81.57
       },
       {
-        "symbol": "SLND.WS",
-        "price": 0.011,
-        "percentChange": -52.17
+        "symbol": "CUE",
+        "price": 2.83,
+        "percentChange": -79.93
       },
       {
-        "symbol": "MTEKW",
-        "price": 0.0101,
-        "percentChange": -52.13
+        "symbol": "RCAX",
+        "price": 0.7696,
+        "percentChange": -62.65
       },
       {
-        "symbol": "VWAVW",
-        "price": 0.0305,
-        "percentChange": -49
+        "symbol": "BAERW",
+        "price": 0.0071,
+        "percentChange": -56.17
       },
       {
-        "symbol": "MTEX",
-        "price": 3.76,
-        "percentChange": -40.32
+        "symbol": "FIGXW",
+        "price": 0.08,
+        "percentChange": -49.97
       },
       {
-        "symbol": "SCATW",
+        "symbol": "MDRN",
+        "price": 1.93,
+        "percentChange": -49.54
+      },
+      {
+        "symbol": "DAICW",
+        "price": 0.0035,
+        "percentChange": -49.28
+      },
+      {
+        "symbol": "SCLX",
+        "price": 0.642,
+        "percentChange": -48.64
+      },
+      {
+        "symbol": "FBYDW",
+        "price": 0.5,
+        "percentChange": -44.44
+      },
+      {
+        "symbol": "SAFX",
+        "price": 0.0451,
+        "percentChange": -41.96
+      },
+      {
+        "symbol": "FLDDW",
         "price": 0.03,
-        "percentChange": -39.88
+        "percentChange": -40.12
       },
       {
-        "symbol": "BTDL",
-        "price": 1.7261,
-        "percentChange": -39.8
+        "symbol": "FGIWW",
+        "price": 0.0217,
+        "percentChange": -39.72
       },
       {
-        "symbol": "VELL",
-        "price": 0.2,
-        "percentChange": -37.5
+        "symbol": "BNCWZ",
+        "price": 0.1145,
+        "percentChange": -39.35
       },
       {
-        "symbol": "CRGOW",
-        "price": 0.0271,
-        "percentChange": -36.08
+        "symbol": "AFJKR",
+        "price": 0.0852,
+        "percentChange": -39.14
       },
       {
-        "symbol": "XXII",
-        "price": 0.4932,
-        "percentChange": -35.96
-      },
-      {
-        "symbol": "BMGL",
-        "price": 0.3023,
-        "percentChange": -35.68
-      },
-      {
-        "symbol": "CNTY",
-        "price": 0.311,
-        "percentChange": -35.19
-      },
-      {
-        "symbol": "ACH",
-        "price": 0.0857,
-        "percentChange": -35.08
-      },
-      {
-        "symbol": "DFLIW",
-        "price": 0.01,
-        "percentChange": -35.06
-      },
-      {
-        "symbol": "DAVEW",
-        "price": 0.099,
-        "percentChange": -34.44
+        "symbol": "STEM",
+        "price": 1.2,
+        "percentChange": -39.09
       }
     ],
     "candidates": [],
