@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:57:19.601Z",
+  "updatedAt": "2026-11-19T22:09:47.231Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "AMPGZ",
-        "price": 0.0094,
-        "percentChange": -50.53
+        "symbol": "LICN",
+        "price": 0.0143,
+        "percentChange": -99.08
       },
       {
-        "symbol": "EONR.WS",
-        "price": 0.034,
-        "percentChange": -50.44
+        "symbol": "PIIIW",
+        "price": 0.0003,
+        "percentChange": -93.33
       },
       {
-        "symbol": "CAPNR",
-        "price": 0.0401,
-        "percentChange": -50
+        "symbol": "ENVXW",
+        "price": 0.0812,
+        "percentChange": -89.24
       },
       {
-        "symbol": "FUSEW",
-        "price": 0.01,
-        "percentChange": -49.49
+        "symbol": "FCHL",
+        "price": 0.0662,
+        "percentChange": -88.29
       },
       {
-        "symbol": "GDHG",
-        "price": 0.1548,
-        "percentChange": -46.84
+        "symbol": "NIVF",
+        "price": 0.035,
+        "percentChange": -79.47
       },
       {
-        "symbol": "HY",
-        "price": 15.44,
-        "percentChange": -41.07
+        "symbol": "OGGWZ",
+        "price": 0.0161,
+        "percentChange": -63.41
       },
       {
-        "symbol": "JMIA",
-        "price": 2.74,
-        "percentChange": -40.82
+        "symbol": "BOXL",
+        "price": 0.8398,
+        "percentChange": -55.92
       },
       {
-        "symbol": "ENRDW",
-        "price": 0.09,
-        "percentChange": -39.02
+        "symbol": "SLND.WS",
+        "price": 0.0115,
+        "percentChange": -53.82
       },
       {
-        "symbol": "GIBOW",
-        "price": 0.0158,
-        "percentChange": -38.52
+        "symbol": "SATLW",
+        "price": 0.0191,
+        "percentChange": -48.38
       },
       {
-        "symbol": "STEM",
-        "price": 0.7424,
-        "percentChange": -38.13
+        "symbol": "AZI",
+        "price": 0.55,
+        "percentChange": -47.12
+      },
+      {
+        "symbol": "LKSPR",
+        "price": 0.9,
+        "percentChange": -47.06
+      },
+      {
+        "symbol": "MRNOW",
+        "price": 0.0037,
+        "percentChange": -46.38
       },
       {
         "symbol": "TDTH",
-        "price": 0.73,
-        "percentChange": -37.07
+        "price": 0.404,
+        "percentChange": -44.66
       },
       {
-        "symbol": "INLF",
-        "price": 0.2273,
-        "percentChange": -36.81
+        "symbol": "PARA",
+        "price": 0.0365,
+        "percentChange": -42.16
       },
       {
-        "symbol": "PRE",
-        "price": 10.35,
-        "percentChange": -36.62
-      },
-      {
-        "symbol": "LPBBW",
-        "price": 0.0699,
-        "percentChange": -36.4
-      },
-      {
-        "symbol": "FNGR",
-        "price": 0.038,
-        "percentChange": -35.59
+        "symbol": "BKHAU",
+        "price": 11.35,
+        "percentChange": -41.71
       }
     ],
     "candidates": [],
