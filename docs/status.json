@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:49:56.852Z",
+  "updatedAt": "2026-11-24T01:40:30.350Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "MOBBW",
-        "price": 0.04,
-        "percentChange": -89.4
+        "symbol": "CGTL",
+        "price": 2.015,
+        "percentChange": -97.71
       },
       {
-        "symbol": "BKHAU",
-        "price": 2.19,
-        "percentChange": -80.7
+        "symbol": "ANSS",
+        "price": 15.22,
+        "percentChange": -95.93
       },
       {
-        "symbol": "BGLWW",
-        "price": 0.005,
-        "percentChange": -75
+        "symbol": "MTEKW",
+        "price": 0.0019,
+        "percentChange": -88.2
       },
       {
-        "symbol": "FCHL",
-        "price": 0.017,
-        "percentChange": -74.32
+        "symbol": "CAPR",
+        "price": 1.92,
+        "percentChange": -74.7
       },
       {
-        "symbol": "VWAV",
-        "price": 0.1822,
-        "percentChange": -72.46
+        "symbol": "CDROW",
+        "price": 0.0077,
+        "percentChange": -71.05
       },
       {
-        "symbol": "BKHA",
-        "price": 1.85,
-        "percentChange": -71.45
+        "symbol": "RBNE",
+        "price": 0.0359,
+        "percentChange": -70.72
       },
       {
-        "symbol": "WETO",
-        "price": 0.1584,
-        "percentChange": -68.31
+        "symbol": "CHGA",
+        "price": 0.681,
+        "percentChange": -68.03
       },
       {
-        "symbol": "GGROW",
-        "price": 0.0015,
-        "percentChange": -60.53
+        "symbol": "FGIWW",
+        "price": 0.018,
+        "percentChange": -63.93
       },
       {
-        "symbol": "DSX.WS",
-        "price": 0.0205,
-        "percentChange": -55.72
+        "symbol": "NVD",
+        "price": 3.86,
+        "percentChange": -63.06
       },
       {
-        "symbol": "APRE",
-        "price": 0.229,
-        "percentChange": -53.56
+        "symbol": "NVDQ",
+        "price": 8.61,
+        "percentChange": -62.97
       },
       {
-        "symbol": "GNS",
-        "price": 0.4993,
-        "percentChange": -50.76
+        "symbol": "TPEI",
+        "price": 44.703,
+        "percentChange": -54.22
       },
       {
-        "symbol": "NCPLW",
-        "price": 0.0348,
-        "percentChange": -50
+        "symbol": "AXTQ",
+        "price": 34.14,
+        "percentChange": -48.24
       },
       {
-        "symbol": "DAVEW",
-        "price": 0.0301,
-        "percentChange": -49.83
+        "symbol": "IREZ",
+        "price": 29.74,
+        "percentChange": -47.41
       },
       {
-        "symbol": "BNCWW",
-        "price": 0.003,
-        "percentChange": -47.37
+        "symbol": "NVDS",
+        "price": 20.95,
+        "percentChange": -47.39
       },
       {
-        "symbol": "BBAI.WS",
-        "price": 0.0093,
-        "percentChange": -47.16
+        "symbol": "SCPQW",
+        "price": 0.145,
+        "percentChange": -46.28
       }
     ],
     "candidates": [],
