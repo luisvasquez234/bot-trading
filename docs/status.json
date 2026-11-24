@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:40:30.350Z",
+  "updatedAt": "2026-11-24T23:28:49.167Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "CGTL",
-        "price": 2.015,
-        "percentChange": -97.71
-      },
-      {
-        "symbol": "ANSS",
-        "price": 15.22,
-        "percentChange": -95.93
-      },
-      {
-        "symbol": "MTEKW",
-        "price": 0.0019,
-        "percentChange": -88.2
-      },
-      {
-        "symbol": "CAPR",
-        "price": 1.92,
-        "percentChange": -74.7
-      },
-      {
-        "symbol": "CDROW",
-        "price": 0.0077,
-        "percentChange": -71.05
-      },
-      {
-        "symbol": "RBNE",
-        "price": 0.0359,
-        "percentChange": -70.72
-      },
-      {
-        "symbol": "CHGA",
-        "price": 0.681,
-        "percentChange": -68.03
-      },
-      {
         "symbol": "FGIWW",
-        "price": 0.018,
-        "percentChange": -63.93
+        "price": 0.0075,
+        "percentChange": -58.33
       },
       {
-        "symbol": "NVD",
-        "price": 3.86,
-        "percentChange": -63.06
+        "symbol": "EVRL",
+        "price": 1.25,
+        "percentChange": -58.19
       },
       {
-        "symbol": "NVDQ",
-        "price": 8.61,
-        "percentChange": -62.97
+        "symbol": "GGROW",
+        "price": 0.0014,
+        "percentChange": -57.58
       },
       {
-        "symbol": "TPEI",
-        "price": 44.703,
-        "percentChange": -54.22
+        "symbol": "SRTM",
+        "price": 0.4692,
+        "percentChange": -54.45
       },
       {
-        "symbol": "AXTQ",
-        "price": 34.14,
-        "percentChange": -48.24
+        "symbol": "RDACR",
+        "price": 0.0502,
+        "percentChange": -54.36
       },
       {
-        "symbol": "IREZ",
-        "price": 29.74,
-        "percentChange": -47.41
+        "symbol": "CRMT",
+        "price": 0.325,
+        "percentChange": -53.95
       },
       {
-        "symbol": "NVDS",
-        "price": 20.95,
-        "percentChange": -47.39
+        "symbol": "BBAI.WS",
+        "price": 0.0062,
+        "percentChange": -49.18
       },
       {
-        "symbol": "SCPQW",
-        "price": 0.145,
-        "percentChange": -46.28
+        "symbol": "HDRNW",
+        "price": 0.016,
+        "percentChange": -46.67
+      },
+      {
+        "symbol": "GIXXR",
+        "price": 0.0946,
+        "percentChange": -44.32
+      },
+      {
+        "symbol": "CDTTW",
+        "price": 0.0039,
+        "percentChange": -44.29
+      },
+      {
+        "symbol": "EUDAW",
+        "price": 0.0135,
+        "percentChange": -44.21
+      },
+      {
+        "symbol": "EUDA",
+        "price": 9,
+        "percentChange": -44
+      },
+      {
+        "symbol": "DAAQW",
+        "price": 0.1001,
+        "percentChange": -41.15
+      },
+      {
+        "symbol": "ABTS",
+        "price": 0.128,
+        "percentChange": -38.99
+      },
+      {
+        "symbol": "HDRN",
+        "price": 0.242,
+        "percentChange": -38.63
       }
     ],
     "candidates": [],
