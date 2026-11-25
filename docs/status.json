@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:28:49.167Z",
+  "updatedAt": "2026-11-25T23:05:46.616Z",
   "account": {
     "equity": "100000",
     "cash": "100000"
@@ -9,79 +9,79 @@
   "today": {
     "topLosers": [
       {
-        "symbol": "FGIWW",
-        "price": 0.0075,
-        "percentChange": -58.33
+        "symbol": "HCTI",
+        "price": 0.4624,
+        "percentChange": -83.78
       },
       {
-        "symbol": "EVRL",
-        "price": 1.25,
-        "percentChange": -58.19
-      },
-      {
-        "symbol": "GGROW",
-        "price": 0.0014,
-        "percentChange": -57.58
-      },
-      {
-        "symbol": "SRTM",
-        "price": 0.4692,
-        "percentChange": -54.45
-      },
-      {
-        "symbol": "RDACR",
-        "price": 0.0502,
-        "percentChange": -54.36
-      },
-      {
-        "symbol": "CRMT",
-        "price": 0.325,
-        "percentChange": -53.95
-      },
-      {
-        "symbol": "BBAI.WS",
-        "price": 0.0062,
-        "percentChange": -49.18
-      },
-      {
-        "symbol": "HDRNW",
-        "price": 0.016,
-        "percentChange": -46.67
-      },
-      {
-        "symbol": "GIXXR",
-        "price": 0.0946,
-        "percentChange": -44.32
-      },
-      {
-        "symbol": "CDTTW",
-        "price": 0.0039,
-        "percentChange": -44.29
-      },
-      {
-        "symbol": "EUDAW",
-        "price": 0.0135,
-        "percentChange": -44.21
+        "symbol": "VWAV",
+        "price": 0.0451,
+        "percentChange": -65.36
       },
       {
         "symbol": "EUDA",
-        "price": 9,
-        "percentChange": -44
+        "price": 4.17,
+        "percentChange": -53.67
       },
       {
-        "symbol": "DAAQW",
-        "price": 0.1001,
-        "percentChange": -41.15
+        "symbol": "NMZ.RT",
+        "price": 0.0014,
+        "percentChange": -48.15
       },
       {
-        "symbol": "ABTS",
-        "price": 0.128,
-        "percentChange": -38.99
+        "symbol": "FERAR",
+        "price": 0.1023,
+        "percentChange": -46.36
       },
       {
-        "symbol": "HDRN",
-        "price": 0.242,
-        "percentChange": -38.63
+        "symbol": "GDHG",
+        "price": 0.061,
+        "percentChange": -46.3
+      },
+      {
+        "symbol": "FLDDW",
+        "price": 0.0114,
+        "percentChange": -42.71
+      },
+      {
+        "symbol": "SWVLW",
+        "price": 0.0041,
+        "percentChange": -35.94
+      },
+      {
+        "symbol": "PDC",
+        "price": 0.5185,
+        "percentChange": -33.22
+      },
+      {
+        "symbol": "CODX",
+        "price": 2.64,
+        "percentChange": -32.99
+      },
+      {
+        "symbol": "PW",
+        "price": 3.64,
+        "percentChange": -32.97
+      },
+      {
+        "symbol": "WXM",
+        "price": 1.08,
+        "percentChange": -32.92
+      },
+      {
+        "symbol": "NSTR.WS",
+        "price": 0.05,
+        "percentChange": -31.97
+      },
+      {
+        "symbol": "EXYNW",
+        "price": 0.185,
+        "percentChange": -31.48
+      },
+      {
+        "symbol": "SUGP",
+        "price": 0.8255,
+        "percentChange": -31.21
       }
     ],
     "candidates": [],
